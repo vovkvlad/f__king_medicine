@@ -5,14 +5,14 @@
 This is a quick app I implemented within 2 evenings to keep track of my
 f**cking pills prescribed for my eyes.
 
-##Note:
+## Note:
 As you can obviously get from passive aggressive naming of the app,
 I implemented it not becuase the idea is super new, but just because I
 got pissed off by loosing track of number of times I've already took this or that pill.
 **Thus, the quality of the code is not the best, and functionality might not be ideal**
 **as the main purpose was to implement it as fast as possible**
 
-##Support:
+## Support:
 If the same matter pisses you off as well, and you find this software somewhat
 helpfull - please, get in touch with me with your ideas, or contribute directly an open PRs
 (see [Local development section below](#local-development))
