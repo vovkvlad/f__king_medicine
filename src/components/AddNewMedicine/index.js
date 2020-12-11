@@ -1,0 +1,1 @@
+export { AddNewMedicine } from './AddNewMedicine';

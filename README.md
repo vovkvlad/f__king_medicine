@@ -1,8 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# F**king Medicine
+*App keep track of how many times did you take specific pill.*
 
-## Getting Started
 
-First, run the development server:
+This is a quick app I implemented within 2 evenings to keep track of my
+f**cking pills prescribed for my eyes.
+
+##Note:
+As you can obviously get from passive aggressive naming of the app,
+I implemented it not becuase the idea is super new, but just because I
+got pissed off by loosing track of number of times I've already took this or that pill.
+**Thus, the quality of the code is not the best, and functionality might not be ideal**
+**as the main purpose was to implement it as fast as possible**
+
+##Support:
+If the same matter pisses you off as well, and you find this software somewhat
+helpfull - please, get in touch with me with your ideas, or contribute directly an open PRs
+(see [Local development section below](#local-development))
+
+## Roadmap:
+I might improve functionality in the future, and might not :man_shrugging:
+Anyway, the one thing worth adding is cloud sync, so that you can track
+progress across devices, as right now it's only localStorage that is available
+
+## Local development:
+
+Clone current repo to your machine
+
+Install local dependencies with
+
+```bash
+yarn
+# or
+npm i
+```
+
+then run development server with:
 
 ```bash
 npm run dev
@@ -10,21 +42,6 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the app.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Now you can go, and edit whatever files you want, and open a PR with proposed changes!
